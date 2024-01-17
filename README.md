@@ -1,6 +1,8 @@
 ### Hi there, I am Sherkhan Khanseiit 👋
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sherkhan23)](https://github.com/sherkhan23/github-profile-trophy)
+
 📫 How to reach me: h.sherhann@gmail.com
 
 👨‍💻 My personal web site: https://sherkhan23.github.io/exceedlim/
