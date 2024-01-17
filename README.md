@@ -17,7 +17,7 @@ Languages and tools:
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="height: 40px">
- <img alt="laravel" src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" style="height: 40px">
+ <img alt="laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" style="height: 40px">
 </picture>
 <!--
 
