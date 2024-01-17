@@ -21,7 +21,7 @@ Languages and tools:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" style="height: 40px">
+ <img alt="YOUR-ALT-TEXT" src="https://media.licdn.com/dms/image/D5612AQGrUk-Euq6J_w/article-cover_image-shrink_600_2000/0/1677780279349?e=2147483647&v=beta&t=OJ7_EgucF9GJPnzVn23mbaXtKdrf-kvDffVHGC-h38w" style="height: 40px">
 </picture>
 <!--
 
