@@ -16,9 +16,13 @@ Languages and tools:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="height: 25px">
+ <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="height: 40px">
 </picture>
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" style="height: 40px">
+</picture>
 <!--
 
 Here are some ideas to get you started:
