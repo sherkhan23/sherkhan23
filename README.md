@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there, I am Sherkhan Khanseiit 👋
+
+
+📫 How to reach me: h.sherhann@gmail.com
+
+👨‍💻 My personal web site: https://sherkhan23.github.io/exceedlim/
+
+
+Connect with me: 
+LinkedIn: https://www.linkedin.com/in/sherkhan-khanseiit-b922641b9/
 
 <!--
-**sherkhan23/sherkhan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
